@@ -1,3 +1,3 @@
 ﻿# SR-IRS Starter
  
- VB
+ VB (Console application)
